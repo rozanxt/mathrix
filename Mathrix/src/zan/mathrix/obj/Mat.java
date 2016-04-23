@@ -1,4 +1,4 @@
-package zan.mathrix.object;
+package zan.mathrix.obj;
 
 import java.util.ArrayList;
 

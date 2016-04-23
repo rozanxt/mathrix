@@ -1,6 +1,6 @@
 package zan.mathrix.elem;
 
-import zan.mathrix.number.Real;
+import zan.mathrix.num.Real;
 
 /** Element of Metric Space */
 public interface MetricElem<E> extends Elem<E> {

@@ -1,4 +1,4 @@
-package zan.mathrix.number;
+package zan.mathrix.num;
 
 import zan.mathrix.elem.EuclideanRingElem;
 import zan.mathrix.elem.MetricElem;

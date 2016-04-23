@@ -11,14 +11,14 @@ import zan.mathrix.elem.ModuleElem;
 import zan.mathrix.elem.OrderedElem;
 import zan.mathrix.elem.RingElem;
 import zan.mathrix.elem.SignedElem;
-import zan.mathrix.number.Complex;
-import zan.mathrix.number.Int;
-import zan.mathrix.number.ModInt;
-import zan.mathrix.number.Ratio;
-import zan.mathrix.number.Real;
-import zan.mathrix.object.Mat;
-import zan.mathrix.object.Polynom;
-import zan.mathrix.object.Vec;
+import zan.mathrix.num.Complex;
+import zan.mathrix.num.Int;
+import zan.mathrix.num.ModInt;
+import zan.mathrix.num.Ratio;
+import zan.mathrix.num.Real;
+import zan.mathrix.obj.Mat;
+import zan.mathrix.obj.Polynom;
+import zan.mathrix.obj.Vec;
 
 /** Math Utility */
 public class MathUtil {

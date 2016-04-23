@@ -1,6 +1,6 @@
 package zan.mathrix.elem;
 
-import zan.mathrix.number.Int;
+import zan.mathrix.num.Int;
 
 /** Euclidean Ring Element */
 public interface EuclideanRingElem<E> extends RingElem<E> {

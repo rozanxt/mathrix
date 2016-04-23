@@ -1,6 +1,6 @@
 package zan.mathrix.elem;
 
-import zan.mathrix.number.Int;
+import zan.mathrix.num.Int;
 
 /** Signed Element */
 public interface SignedElem<E> extends Elem<E> {
