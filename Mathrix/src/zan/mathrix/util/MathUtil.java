@@ -243,7 +243,7 @@ public class MathUtil {
 			for (int i=0;i<left.rows();i++) {
 				ArrayList<S> temp = new ArrayList<S>();
 				for (int j=0;j<appcols;j++) {
-					if (j < left.rows()) temp.add(left.get(i, j));
+					if (j < left.cols()) temp.add(left.get(i, j));
 					else temp.add(right.get(i, j - left.cols()));
 				}
 				result.add(temp);
